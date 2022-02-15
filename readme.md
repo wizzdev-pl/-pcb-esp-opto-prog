@@ -1,6 +1,6 @@
 # ESP Optoisolated Programmer
 
-This repo contains design files of the ESP Optoisolated Programmer. It is helpful to develop software for products with and ESP microcontroller that are powered from 230V mains. 
+This repo contains design files of the ESP Optoisolated Programmer. It is helpful to develop software for products with and ESP microcontroller that are powered from 230V mains. It works for ESP32, ESP8266 and all other ESP modules.
 
 For detailed description please read:
 - [Schematic Description 1](https://wizzdev.pl/blog/esp32-optoisolated-programmer-schematic-description-1/)
